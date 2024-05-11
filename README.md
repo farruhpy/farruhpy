@@ -1,8 +1,4 @@
- 👋 Hi, I’m @farruhpy- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me E-mail: farruhpy@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ B-date: 2007.29.04 
+
 <!---
 farruhpy/farruhpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,15 +7,15 @@ You can click the Preview link to take a look at your changes.
 <div align='center'>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋,  I'm Farruh</h1>
-<h3 align="center">Data Scientist from Uzbekistan</h3>
+<h3 align="center">Data Scientist from Uzbekistan <br> B-date : 29.04.2007</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamshid-ds&label=Profile%20views&color=0e75b6&style=flat" alt="jamshid-ds" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamshid-ds&theme=gruvbox" alt="jamshid-ds" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamshid-ds&theme=gruvbox" alt="farruhpy" /></a> </p>
 
 
-<div> <a href="https://github.com/jamshid-ds" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/jamshid.1mb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:maenlaer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/farruhpy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/farrvhbeck" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:farruhpy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/jamshid.1mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="jamshid.1mb" height="30" width="40" /></a></p>
